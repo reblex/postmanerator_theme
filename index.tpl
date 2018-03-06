@@ -74,3 +74,6 @@
 {{ end }}
 
 {{ end }}
+
+
+<script src="https://code.jquery.com/jquery-2.2.2.min.js"></script>
